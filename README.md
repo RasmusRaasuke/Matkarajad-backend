@@ -2,6 +2,10 @@
 
 [LINK](http://matkarajad.zapto.org/)
 
+## Frontend
+
+Our frontend is in another [repository](https://github.com/RasmusRaasuke/Matkarajad-frontend).
+
 ## Purpose
 
 The purpose of the application is to enable users to
